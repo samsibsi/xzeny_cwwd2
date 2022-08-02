@@ -1,8 +1,7 @@
-# xzeny
+# xzeny_x
 
 ## Build Setup
 
-```bash
 # install dependencies
 $ yarn install
 
